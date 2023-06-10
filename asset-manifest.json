@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/patternpp/static/css/main.8ba0ee87.css",
+    "main.js": "/patternpp/static/js/main.3e4f424f.js",
+    "index.html": "/patternpp/index.html",
+    "main.8ba0ee87.css.map": "/patternpp/static/css/main.8ba0ee87.css.map",
+    "main.3e4f424f.js.map": "/patternpp/static/js/main.3e4f424f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ba0ee87.css",
+    "static/js/main.3e4f424f.js"
+  ]
+}
